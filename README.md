@@ -1,6 +1,6 @@
 # <h1 align="center" fontsize="60px">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%" height="10%">I'm a QR Code Generator</h1>
 
-Check me out...
+Check me out... https://kyendy-mauwi.github.io/Qr-Code-Generator/
 
 ![qr1](https://user-images.githubusercontent.com/62172250/190106440-6f45913b-2a3f-4d92-840c-f20c7f829829.png)
 
